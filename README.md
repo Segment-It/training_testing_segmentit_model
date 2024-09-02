@@ -1,2 +1,5 @@
-# training_testing_segmentit_model
-This repository contains the Training, Evaluation, and Testing for our research on Brain Tumor Detection utilizing a combined MobileNetV2-SSD model with modified Feature Pyramid Network levels.  This model trained on a famous brain tumor dataset on kaggle provided by Jun Cheng. 
+# 🧠 Brain Tumor Detection Segment-It Model 🧠
+This repository contains the Training, Evaluation, and Testing code for our research on brain tumor detection, utilizing a combined MobileNetV2-SSD model with modified Feature Pyramid Network (FPN) levels. Our model is trained on a well-known brain tumor dataset from Kaggle, provided by Jun Cheng.
+
+🚀 Project Overview
+
