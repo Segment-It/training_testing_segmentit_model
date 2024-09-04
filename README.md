@@ -18,6 +18,10 @@ We utilized Google Colab as our primary environment for training and testing, ta
 
 ### ✨ Model Architecture
 
+
+![Arch Model](https://github.com/user-attachments/assets/feda2ce2-99ad-41ac-998a-1d6027d20522)
+
+
 Key Features:
 
 MobileNetV2: Lightweight and efficient backbone.
